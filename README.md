@@ -1,6 +1,6 @@
 INTRODUCTION
 
-    The FT5x06 Series ICs are single-chip capacitive touch panel controller ICs with a built-in 8 bit Micro-controller unit (MCU).
+1.The FT5x06 Series ICs are single-chip capacitive touch panel controller ICs with a built-in 8 bit Micro-controller unit (MCU).   
 
 2.They adopt the mutual capacitance approach, which supports true multi-touch capability. In conjunction with a mutual capacitive touch panel, the FT5x06 have user-friendly input functions, which can be applied on many portable devices, such as cellular phones, MIDs,netbook and notebook personal computers.
 
